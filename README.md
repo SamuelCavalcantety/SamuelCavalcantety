@@ -3,8 +3,7 @@
 **`Futuro Android developer e back-end`**
 
 Olá, eu gostaria de compartilhar um pouco da minha trajetória inicial para se tornar um desenvolvedor android e back-end.
-Minha paixão pela tecnologia começou com a curiosidade de entender como os aplicativos funcionavam por trás das telas. Isso me levou a mergulhar no universo do desenvolvimento mobile nativo, onde encontrei no Android e na linguagem Kotlin o caminho ideal. Atualmente, estou focado no domínio da linguagem Kotlin, explorando todo o seu potencial tanto no desenvolvimento Android quanto no back-end, com o objetivo de me tornar um desenvolvedor mais completo.
-
+Minha paixão pela tecnologia começou com a curiosidade de entender como os aplicativos funcionavam por trás das telas. Isso me levou a mergulhar no universo do desenvolvimento mobile nativo, onde encontrei no Android e na linguagem Kotlin o caminho ideal. Atualmente, estou focado no domínio da linguagem Kotlin, Jetpack Composer e Firebase.
 
 ---
 
